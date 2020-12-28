@@ -1,4 +1,4 @@
-## *Chinese Language Understanding Evaluation (CLUE) benchmark*
+## * Chinese Language Understanding Evaluation (CLUE) benchmark *
 
 ### Mission Description
 
