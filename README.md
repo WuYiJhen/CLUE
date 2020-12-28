@@ -2,7 +2,14 @@
 
 https://www.cluebenchmarks.com/index.html
 
-### Mission Description
+### Missions ( So far )
 
 1. CLUENER (CLUE Fine-Grain NER) : 细粒度命名实体识别 
-- https://www.cluebenchmarks.com/introduce.html
+
+
+### Score
+
+
+| Evaluate Date |  AFQMC   |  TNEWS   | IFLYTEK  |  CMNLI   |   WSC    |   CSL    | CMRC2018 |   CHID   |    C3    | CLUENER  |  OCNLI   |
+| ------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|  2020-12-28   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |  77.273  |   None   |
