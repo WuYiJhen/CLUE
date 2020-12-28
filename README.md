@@ -10,6 +10,7 @@ https://www.cluebenchmarks.com/index.html
 ### Score
 
 
-| Evaluate Date |  AFQMC   |  TNEWS   | IFLYTEK  |  CMNLI   |    WSC   |    CSL   | CMRC2018 |   CHID   |    C3    | CLUENER  |  OCNLI   |
-| ------------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-|  2020-12-28   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |  77.273  |   None   |
+| Evaluate Date | Submit |  AFQMC   |  TNEWS   | IFLYTEK  |  CMNLI   |    WSC   |    CSL   | CMRC2018 |   CHID   |    C3    | CLUENER  |  OCNLI   |
+| ------------- |--------| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+|  2020-12-28   |    1   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |  77.273  |   None   |
+|  2020-12-28   |    2   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |   None   |  78.092  |   None   |
